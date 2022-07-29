@@ -4,6 +4,9 @@ using namespace std;
 
 int main()
 {
-  cout<<"I want play with you"<<endl;
+  string str = "I want to play!";
+  cout<<str<<endl;
+
+
   return 0;
 }
